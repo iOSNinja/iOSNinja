@@ -165,24 +165,6 @@ Production-grade multi-agent systems with full engineering discipline:
 
 ---
 
-## 💼 Career Highlights
-
-| Role | Company | Years | What I Did |
-|---|---|---|---|
-| Senior Mobile Platform Architect & Technical Lead | **PDI Technologies** | 2020 – 2025 | White-label mobile platform powering 40+ branded loyalty apps. Architected modular platform, JSON-driven UI framework, unified payments, security architecture, CI/CD |
-| Lead iOS Developer / Mobile Architect | **7-Eleven** *(via Marlabs)* | 2017 – 2020 | Mobile Checkout (POC → production scale), Digital Wallet, 7Rewards. Patent-filed in-store validation initiative |
-| Lead iOS Developer | **CBRE** *(via Marlabs)* | 2020 | Enterprise Host app — SSO (ADAL), Intune MDM/MAM, indoor mapping |
-| Senior iOS Developer | **Worldpay, Mutualink, McDonald's** *(via Marlabs)* | 2015 – 2017 | Payment SDK, real-time public safety comms, McDonald's iOS app transition |
-| Senior Mobile Developer | **Anderson Merchandisers** | 2011 – 2015 | Retail field operations — iOS + .NET + SQL Server + ETL |
-| Software Engineer | **Cerner Corporation** | 2008 – 2011 | Healthcare modules in C# + SQL Server |
-
-### 🏆 Impact at Scale
-
-- **PDI:** Consolidated fragmented multi-app ecosystem into scalable platform model; reduced duplicated engineering effort across dozens of client apps; enabled declarative runtime UI and reusable module architecture
-- **7-Eleven:** Helped launch and scale contactless mobile checkout in a high-usage consumer loyalty app — drove measurable rollout impact (~200 additional store trips, ~$1,000 incremental sales per store)
-
----
-
 ## 🎯 Mission
 
 **Building production-grade software for 17+ years — and applying the same engineering discipline whether I'm architecting a mobile platform, training an ML model, or orchestrating multi-agent LLM systems.** Modular design, observability, security, evaluation, and guardrails — baked in from day one, regardless of whether the inference is deterministic or probabilistic.
