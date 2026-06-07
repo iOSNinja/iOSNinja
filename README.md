@@ -161,7 +161,17 @@ Production-grade multi-agent systems with full engineering discipline:
 
 ### 🧰 Concepts I Live and Breathe
 
-`Multi-Agent Orchestration` · `RAG` · `Hybrid Search` · `MCP` · `A2A` · `LLM Evaluation` · `Guardrails` · `Cost Optimization` · `Observability` · `Mobile Architecture` · `White-Label Platforms` · `Payments/Wallets` · `Identity/Security` · `CI/CD` · `Clean Architecture` · `MVVM` · `Coordinators` · `Dependency Injection`
+**📱 Mobile & iOS:**  
+`Swift` · `Objective-C` · `SwiftUI` · `UIKit` · `Kotlin` · `Jetpack Compose` · `Core Data` · `Core Location` · `MVVM` · `MVC` · `Coordinators` · `Clean Architecture` · `Dependency Injection` · `XCFramework / SDK Design` · `Modularization (CocoaPods / SPM)`
+
+**🏛️ Mobile Platform Engineering:**  
+`White-Label Platforms` · `Configuration-Driven UI` · `Apple Pay` · `Google Pay` · `Tokenized Payment Flows` · `Biometric Auth (Face ID / Touch ID)` · `OAuth2 / OIDC` · `JWT` · `TLS / Cert Pinning` · `AES-256` · `Keychain` · `Jailbreak / Root Detection` · `iXGuard`
+
+**🤖 AI / ML & Agentic AI:**  
+`Multi-Agent Orchestration` · `RAG` · `Hybrid Search` · `MCP` · `A2A` · `LLM Evaluation` · `Guardrails` · `Cost Optimization` · `Observability` · `Feature Engineering` · `Transfer Learning` · `Hyperparameter Tuning` · `LLM-as-Judge`
+
+**⚙️ Engineering Discipline:**  
+`CI / CD` · `Fastlane` · `Jenkins` · `Feature Flags` · `A/B Testing` · `Eval-Driven Development` · `Architecture Reviews` · `Code Reviews` · `Technical Leadership` · `Onshore/Offshore Coordination`
 
 ---
 
