@@ -177,7 +177,7 @@ Production-grade multi-agent systems with full engineering discipline:
 
 ## 🎯 Mission
 
-**Building production-grade software for 17+ years — and applying the same engineering discipline whether I'm architecting a mobile platform, training an ML model, or orchestrating multi-agent LLM systems.** Modular design, observability, security, evaluation, and guardrails — baked in from day one, regardless of whether the inference is deterministic or probabilistic.
+**Three domains, one engineering discipline.** Whether I'm architecting a mobile platform (17+ years and counting), training a classical ML model, or orchestrating multi-agent LLM systems — I bring the same rigor: modular design, observability, security, evaluation, and guardrails baked in from day one, regardless of whether the inference is deterministic or probabilistic.
 
 ---
 
