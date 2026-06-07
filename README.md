@@ -30,6 +30,22 @@ I've delivered products from **POC → pilot → enterprise scale** at companies
 
 ---
 
+## 🎯 Mission
+
+**Three domains, one engineering discipline.** Whether I'm architecting a mobile platform (17+ years and counting), training a classical ML model, or orchestrating multi-agent LLM systems — I bring the same rigor: modular design, observability, security, evaluation, and guardrails baked in from day one, regardless of whether the inference is deterministic or probabilistic.
+
+---
+
+## 💭 Philosophy
+
+> **Build · Break · Learn · Ship.**
+>
+> Eval-driven. Guardrail-defended. Observability-first.
+>
+> The kind of system you can actually deploy, not just demo.
+
+---
+
 ## 🏗️ Three Pillars of My Work
 
 ### 📱 Mobile Architecture & iOS Engineering — 12+ Years
@@ -172,22 +188,6 @@ Production-grade multi-agent systems with full engineering discipline:
 
 **⚙️ Engineering Discipline:**  
 `CI / CD` · `Fastlane` · `Jenkins` · `Feature Flags` · `A/B Testing` · `Eval-Driven Development` · `Architecture Reviews` · `Code Reviews` · `Technical Leadership` · `Onshore/Offshore Coordination`
-
----
-
-## 🎯 Mission
-
-**Three domains, one engineering discipline.** Whether I'm architecting a mobile platform (17+ years and counting), training a classical ML model, or orchestrating multi-agent LLM systems — I bring the same rigor: modular design, observability, security, evaluation, and guardrails baked in from day one, regardless of whether the inference is deterministic or probabilistic.
-
----
-
-## 💭 Philosophy
-
-> **Build · Break · Learn · Ship.**
->
-> Eval-driven. Guardrail-defended. Observability-first.
->
-> The kind of system you can actually deploy, not just demo.
 
 ---
 
