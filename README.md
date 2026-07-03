@@ -109,7 +109,7 @@ Production-grade multi-agent systems with full engineering discipline:
 
 ## 🚀 Other Notable AI Projects
 
-### Agentic AI Coursework (Interview Kickstart, 2026)
+### Agentic AI (2026)
 
 | Project | What It Demonstrates |
 |---|---|
@@ -119,7 +119,7 @@ Production-grade multi-agent systems with full engineering discipline:
 | **SupportDesk RAG Assistant** | 6-module RAG pipeline with eval and agentic patterns |
 | **Hybrid Search & Retrieval** | Qdrant with SPLADE sparse + dense embeddings + RRF |
 
-### Classical ML Capstones (UT Austin PGP, 2025–2026)
+### Classical ML Capstones (2025–2026)
 
 | Project | Domain | Highlights |
 |---|---|---|
