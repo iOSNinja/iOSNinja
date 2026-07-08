@@ -3,7 +3,9 @@
 <h3 align="center">
 Software Architect · Digital Product Engineering Leader · 17+ Years
 <br />
-Mobile Platforms · Payments · Identity · Production-Grade Agentic AI
+Mobile Platforms · Payments · Identity · ML Engineering · Production-Grade Agentic AI
+<br />
+Retail · Loyalty · Convenience · Fintech · Healthcare
 </h3>
 
 <p align="center">
